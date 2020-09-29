@@ -6,7 +6,7 @@ using namespace std;
 class Dice {
 public:
     int face_number;
-    vector<double> probability; t
+    vector<double> probability; 
 
     Dice(int Face_number, vector<double> Probability) {
         double tmp = 1;
